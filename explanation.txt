@@ -1,0 +1,2 @@
+Eu nao consigo fazer com que o div.content ficasse alinhado de cima para baixo sem fazer com que o float da esquerda e direita
+fossem para baixo e mesmo com clear eles nao voltavam para posicao anteiror
